@@ -1,6 +1,8 @@
 # ignore dot files/directories
 .*
 !.gitignore
+!.devcontainer/
+!.vscode/
 
 *.autosave
 *.pyc
